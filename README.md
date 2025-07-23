@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Ariba Sameen Ansari
 
-<!--
-**Ariba-Sameen-Ansari/Ariba-Sameen-Ansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s in Information Studies (Cybersecurity & AI enthusiast)  
+🛡️ Passionate about building secure, impactful software  
+🌐 Open to collaborations, internships, and full-time roles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+**Languages:** Python, Bash, Java (basic)  
+**Frameworks:** FastAPI, Flask  
+**Cybersecurity:** JWT, SOC Simulation, Threat Detection, MITRE ATT&CK  
+**Tools:** Git, SQLAlchemy, Jupyter, Uvicorn, VS Code, GitHub  
+**Certifications:** IBM Cybersecurity Analyst, Google Cloud Security (in progress)
+
+---
+
+## 📌 Highlight Projects
+
+- 🔐 [JWT Auth API](https://github.com/Ariba-Sameen-Ansari/jwt_auth_api)  
+  Secure backend system with full documentation, login, token auth & protected routes.
+
+- 📧 Email Threat Classifier  
+  AI-powered tool to detect phishing & spam using LLMs.
+
+- 🕵️ SOC Alert Simulation  
+  Real-time incident handling and alert generation for simulated SOC environments.
+
+---
+
+## 💡 I’m Currently
+
+- Finishing Google Cloud Security certification
+- Looking for cybersecurity roles (SOC Analyst, GRC, Threat Hunter)
+- Exploring LLM x Security project ideas
+
+---
+
+## 📫 Let's Connect
+
+📧 Email: aribasameen0960@gmail.com  
+💼 LinkedIn: [linkedin.com/in/ariba-sameen-ansari](https://linkedin.com/in/ariba-sameen-ansari)
+
+---
+*Thank you for visiting!*
